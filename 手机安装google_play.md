@@ -1,6 +1,7 @@
 # 安装 google play 以及下载软件
-## 1、下载极光app
-网址：`https://www.qingfengshenzhen.com/`  
+## 1、下载app
+极光网址：`https://www.qingfengshenzhen.com/`  
+蚂蚁网址：`https://m.apkpure.com/cn/mayi-vpn-fast-secure-vpn/com.mayi.xiaoyi/download?from=details`
 ## 2、下载 google play  
 网址：`https://google-play.en.uptodown.com/android/download`
 ## 3、淘宝购买谷歌账号
